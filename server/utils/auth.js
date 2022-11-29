@@ -12,7 +12,7 @@ module.exports = {
 
     // ["Bearer", "<tokenvalue>"]
     if (req.headers.authorization) {
-      token = token.split(" ").pop().trim();
+      token = token.split(" getme ").pop().trim();
     }
 
     if (!token) {
