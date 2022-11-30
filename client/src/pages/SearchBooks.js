@@ -38,6 +38,7 @@ const SearchBooks = () => {
     }
 
     try {
+      //fetching data from google api.
       const response = await searchGoogleBooks(searchInput);
 
       if (!response.ok) {
