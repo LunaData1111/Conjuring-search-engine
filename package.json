@@ -18,5 +18,8 @@
   "engines": {
     "node": "18.x",
     "npm": "8.x"
+  },
+  "dependencies": {
+    "node": "^16.18.1"
   }
 }
