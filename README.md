@@ -1,5 +1,7 @@
 # Conjuring-search-engine
 
+![2022-11-29 (6)](https://user-images.githubusercontent.com/106449993/204680301-a22aecd7-a3b4-4c2c-a22b-09fcc0495cfa.png)
+
 # Trouble shooting
 
 Hooking everything together was a challenge. Then getting everything to run in the local host was new forefront.
